@@ -140,7 +140,7 @@ onMounted(() => {
 
 .navbar ul li a {
   text-decoration: none;
-  color: rgb(252, 249, 249);
+  color: rgb(255, 255, 255);
   font-size: 20px;
   transition: color 0.3s ease-in-out;
 }
