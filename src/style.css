@@ -23,14 +23,17 @@ a:hover {
 }
 
 body {
-  background-image: url(./src/assets/ok.jpg); 
+  background-image: url(./assets/pp.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   margin: 0;
   display: flex;
-  place-items: center;
+  align-items: center;
+  justify-content: center;
   min-width: 320px;
   min-height: 100vh;
 }
-
 
 h1 {
   font-size: 3.2em;
